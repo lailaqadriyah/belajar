@@ -20,4 +20,5 @@ model User{
   token    String?  @db.VarChar(100)
 
   @@map(users)
+  ahahahha
 }
