@@ -21,4 +21,6 @@ model User{
 
   @@map(users)
   ahahahha
+
+  halooo
 }
