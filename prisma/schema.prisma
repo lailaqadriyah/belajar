@@ -18,6 +18,6 @@ model User{
   password String   @db.Varchar(100)
   name     String   @db.Varchar(100)
   token    String?  @db.VarChar(100)
-
+tes123
   @@map(users)
 }
